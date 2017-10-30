@@ -1,3 +1,11 @@
+## UPDATE
+
+Now that TP-Link's Kasa supports IFTTT, I'd highly recommend using that instead of bothering with skimming the API credentials and doing it manually.
+
+In addition, the credentials I grabbed with fiddler stopped working after about a month. So one who wanted to fake Kasa API calls using this repo would likely have to re-update their credentials every month.
+
+# Summary
+
 Make requests to Kasa IOT electrical plug using python.
 
 Following the guide from
